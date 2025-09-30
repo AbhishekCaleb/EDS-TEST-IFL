@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "name": "Corporate Multi-Section Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.mlc.com.au/personal/superannuation/get-started",
+          "uuid": "8725cd92db4c65bf810eadce5bdebcbcb5d878cf"
+        },
+        {
+          "url": "https://www.mlc.com.au/personal/cookie-notice",
+          "uuid": "7d64a1b4c0df3f6f78a3bf860bf2a39ee1ee97a5"
+        }
+      ]
+    },
+    {
+      "name": "'E-commerce Homepage'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.mlc.com.au/",
+          "uuid": "6b113cadf40b1e51a9b5a4e82231656cf3e8abdd"
+        }
+      ]
+    }
+  ]
+}
